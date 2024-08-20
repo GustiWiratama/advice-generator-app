@@ -30,6 +30,7 @@ body .main-container {
   font-family: Manrope;
   border-radius: 10px;
   max-width: 500px;
+  min-width: 330px;
   position: relative;
   padding-bottom: 3em;
 }
