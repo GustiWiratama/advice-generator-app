@@ -32,7 +32,7 @@ body .main-container {
   max-width: 500px;
   min-width: 330px;
   position: relative;
-  padding-bottom: 3em;
+  padding-bottom: 4em;
 }
 body .main-container .title-section {
   margin-top: 2em;
@@ -46,8 +46,8 @@ body .main-container .text-section {
   text-align: center;
   color: white;
   font-weight: bold;
-  font-size: larger;
-  margin: 15px;
+  font-size: x-large;
+  margin: 24px;
   max-width: 370px;
 }
 body .main-container .dice-icon {
